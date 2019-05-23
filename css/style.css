@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    background: rgb(2,100,255);
+    background: linear-gradient(0deg, rgba(2,100,255,1) 0%, rgba(255,255,255,1) 0%, rgba(189,201,223,1) 100%);
+}
+
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: futura, sans-serif;
+    font-size: 3rem;
+    font-style: italic;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    color: #333;
+}
